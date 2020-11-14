@@ -21,12 +21,16 @@
   "homepage": "https://github.com/Luobinf/React-UI#readme",
   "dependencies": {
     "awesome-typescript-loader": "^5.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "typescript": "3.9.7",
     "webpack": "4.29.6",
     "webpack-cli": "3.2.3",
     "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {
+    "@types/react": "^16.9.56",
+    "@types/react-dom": "^16.9.9",
     "html-webpack-plugin": "^4.5.0"
   }
 }
